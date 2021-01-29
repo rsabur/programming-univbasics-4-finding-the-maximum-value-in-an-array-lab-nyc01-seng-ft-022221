@@ -4,6 +4,6 @@ def find_max_value(array)
     if array[count].max
       return count
     end
-    count += 1end
+    count += 1
   end
 end
